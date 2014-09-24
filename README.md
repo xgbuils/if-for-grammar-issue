@@ -1,6 +1,5 @@
 
 `$ node node_modules/jison/lib/cli.js for.jison lex.jisonlex`
-
 OK!
 
 ```
@@ -14,10 +13,10 @@ for (var i
     3
 }
 ```
-
 OK!
 
 `$ node node_modules/jison/lib/cli.js if.jison lex.jisonlex`
+OK!
 
 ```
 $ node if.js iftest.jsvar x = 1
@@ -37,7 +36,7 @@ if (1)
         c
     b
 }
-
+```
 OK!
 
 ```
