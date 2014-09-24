@@ -52,3 +52,6 @@ State 36
   stmt -> closed_stmt . #lookaheads= ENDOFFILE IF FOR VAR NUMBER IDENTIFIER LBRACE SEMICOLON RBRACE ELSE
 ```
 FAIL!
+
+
+http://stackoverflow.com/questions/26026881/jison-conflict-in-grammar-when-if-else-and-for-statements-ara-combined
