@@ -1,0 +1,21 @@
+{
+  "name": "grammar_issue",
+  "version": "1.0.0",
+  "description": "A problem when I combine `if-else` & `for` statement",
+  "main": "index.js",
+  "dependencies": {
+    "jison": "^0.4.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jison",
+    "if-else",
+    "for",
+    "conflict"
+  ],
+  "author": "Xavier Garcia Buils",
+  "license": "ISC"
+}
